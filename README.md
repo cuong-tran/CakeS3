@@ -1,3 +1,6 @@
+# TODO
+- Have to detect redirect from s3.amazonaws.com to other endpoints automatically.
+
 # DEPRECATED
 
 As may be abundantly clear I am no longer maintaining this component. It will *not* be updated for CakePHP 3.  It was a learning tool that some few people found useful, but moving forward I'd rather put my time into supporting one of the other S3 libraries on Packagist. Not only framework agnostic but reducing the number of S3 library clones by one.
